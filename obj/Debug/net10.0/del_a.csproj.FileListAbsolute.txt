@@ -1,0 +1,14 @@
+/Users/gaojie/aikurs/projekt_2/del_a/bin/Debug/net10.0/del_a
+/Users/gaojie/aikurs/projekt_2/del_a/bin/Debug/net10.0/del_a.deps.json
+/Users/gaojie/aikurs/projekt_2/del_a/bin/Debug/net10.0/del_a.runtimeconfig.json
+/Users/gaojie/aikurs/projekt_2/del_a/bin/Debug/net10.0/del_a.dll
+/Users/gaojie/aikurs/projekt_2/del_a/bin/Debug/net10.0/del_a.pdb
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.AssemblyInfoInputs.cache
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.AssemblyInfo.cs
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.csproj.CoreCompileInputs.cache
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.dll
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/refint/del_a.dll
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.pdb
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/del_a.genruntimeconfig.cache
+/Users/gaojie/aikurs/projekt_2/del_a/obj/Debug/net10.0/ref/del_a.dll
